@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -7,7 +7,16 @@
   text-align:center;
   line-height:normal;
 }
+._形状 {
+}
+.box_1 {
+}
+.box_2 {
+}
+.ellipse {
+}
 ._图片 {
+  color:#000000;
 }
 .placeholder {
 }
@@ -17,37 +26,37 @@
   color:#FFFFFF;
 }
 ._一级标题 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:bold;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
   font-size:32px;
   text-align:left;
 }
 ._二级标题 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:bold;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
   font-size:24px;
   text-align:left;
 }
 ._三级标题 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:bold;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
   font-size:18px;
   text-align:left;
 }
 ._四级标题 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:bold;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
   font-size:14px;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:bold;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
   text-align:left;
 }
 ._六级标题 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:bold;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
   font-size:10px;
   text-align:left;
 }
@@ -58,13 +67,12 @@
 ._文本段落 {
   text-align:left;
 }
-.line {
+._文本链接 {
+  color:#0000FF;
+}
+.arrow {
 }
 .text_field {
-  color:#000000;
-  text-align:left;
-}
-.text_area {
   color:#000000;
   text-align:left;
 }
@@ -72,17 +80,45 @@
   color:#000000;
   text-align:left;
 }
-._流程形状 {
+._自由编辑 {
+  font-family:'Arial Normal', 'Arial';
 }
-._默认样式 {
+.tree_node {
+  font-family:'Arial Normal', 'Arial';
+  text-align:left;
 }
-.box_1 {
-}
-.box_3 {
-}
-.ellipse {
-}
-.image {
+.table_cell {
 }
 .icon {
+}
+._图片1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.image {
+  color:#000000;
+}
+.flow_shape {
+}
+.shape {
+}
+.marker {
+  color:#FFFFFF;
+}
+.line {
+}
+.box_11 {
+}
+._水平线 {
+}
+._垂直线 {
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.box_3 {
 }
